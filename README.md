@@ -1,6 +1,7 @@
 🌊 OceanShield AI
 
 ![image alt](https://github.com/Shamit248/APEX_OceanSheild_Al_SIH/blob/d12385c1b9e0089063c1b3a42ede63e9d714a745/PrototypeScreenshot1.png)
+![image alt](https://github.com/Shamit248/APEX_OceanSheild_Al_SIH/blob/900e42ac7bdfdbe59337d071788fc76416e1be6d/PrototypeScreenshot2.png)
 
 🚨 About
 
